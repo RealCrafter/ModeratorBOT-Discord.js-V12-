@@ -18,8 +18,12 @@ The bot is in beta, which means it will gradually improve.
 - Ignore all bot commands
 - Ignore DM commands or messages
 
-# Upcoming updates:
-- mute and unmute command
-- automod
+# To do:
+- Mute & unmute command
+- AutoMod
+- FilterBadWords
+- More moderation commands
+
+I have not had time to update much of this bot but I will try to update it more later :)
    
 
