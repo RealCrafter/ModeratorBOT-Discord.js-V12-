@@ -22,6 +22,8 @@ The bot is in beta, which means it will gradually improve.
 - Mute & unmute command
 - AutoMod
 - FilterBadWords
+- Permissions
+- Modes
 - More moderation commands
 
 I have not had time to update much of this bot but I will try to update it more later :)
