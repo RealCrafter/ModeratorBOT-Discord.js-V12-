@@ -23,7 +23,7 @@ The bot is in beta, which means it will gradually improve.
 - AutoMod
 - FilterBadWords
 - Permissions
-- Modes
+- ChatModes
 - More moderation commands
 
 I have not had time to update much of this bot but I will try to update it more later :)
