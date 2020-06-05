@@ -19,8 +19,8 @@ The bot is in beta, which means it will gradually improve.
 - Ignore DM commands or messages
 
 # To-do list:
-- [ ] Mute & unmute command
-- [ ] AutoMod
+- [ ] Mute & unmute command ([#3](https://github.com/AllanGame/ModeratorBOT-Discord.js-V12-/issues/3/))
+- [ ] Auto mod
 - [ ] Filter bad words
 - [ ] Permissions
 - [ ] Chat modes
