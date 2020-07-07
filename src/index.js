@@ -14,6 +14,7 @@ client.commands = new Discord.Collection();
 client.aliases = new Discord.Collection();
 client.categories = fs.readdirSync("./commands/");
 
+
 ["command", "event"].forEach(handler=> {
 
   require(`./handlers/${handler}`)(client);
